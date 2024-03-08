@@ -50,9 +50,10 @@ sudo pacman -S vlc
 Check out the [Samples Folder](samples/) for examples on how to use this library.
 
 ## Licensing
-**hxCodec** is made available under the **Mozilla Public License 2.0\***. Check [LICENSE](./LICENSE) for more information.
+**hxCodec** is made available under the **Mozilla Public License 2.0**. Check [LICENSE](./LICENSE) for more information.
 
-\*Haxelib does not support MPL2.0; therefore, regardless of what Haxelib reports, this library's license is still **MPL2.0**.
+*Haxelib does not support MPL2*
+therefore, regardless of what Haxelib reports, this library's license is still **MPL2.0**.
 
 ![](https://raw.githubusercontent.com/videolan/vlc/master/share/icons/256x256/vlc.png)
 
@@ -65,7 +66,6 @@ Check out the [Samples Folder](samples/) for examples on how to use this library
 | ![](https://avatars.githubusercontent.com/u/47796739?s=64) | [polybiusproxy](https://github.com/polybiusproxy) | Creator of **hxCodec**.
 | ![](https://avatars.githubusercontent.com/u/1677550?s=64) | [datee](https://github.com/datee) | Creator of **HaxeVLC**.
 | ![](https://avatars.githubusercontent.com/u/77043862?s=64) | [MAJigsaw77](https://github.com/MAJigsaw77) | Programmer, Android & Linux support.
-| ![](https://avatars.githubusercontent.com/u/4635334?s=64) | [EliteMasterEric](https://github.com/EliteMasterEric) | Additional Programmer.
 | ![](https://avatars.githubusercontent.com/u/84131849?s=64) | [RapperGF](https://github.com/RapperGF) | Rendering Overhaul & Testing.
 | ![](https://avatars.githubusercontent.com/u/49110074?s=64) | [swordcube](https://github.com/swordcube) | Testing Linux Support. 
 | ![](https://avatars.githubusercontent.com/u/107599365?v=64) | [Jonnycat](https://github.com/JonnycatMeow) | MacOS Support.
